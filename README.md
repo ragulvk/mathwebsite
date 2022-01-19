@@ -328,7 +328,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![output](output.jpg)
+![output](output.png)
 
 ## Result:
 
